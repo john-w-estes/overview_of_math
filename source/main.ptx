@@ -11,6 +11,8 @@
     </latex-image-preamble>
   </docinfo>
 
+<!-- ToDo: homework and in-class worksheets -->
+
   <book xml:id="overviewofmath">
     <title>A Look into Some Mathematics</title>
     <subtitle>A short look at what math majors do (Belhaven Edition) </subtitle>
@@ -68,11 +70,8 @@
       
     </section> 
 
-  <part xml:id="part-community">
-    <title>Commuity and Culture</title>
-
-   <chapter xml:id="belhaven-math">
-     <title>Chapter 1: Belhaven Mathematics</title>
+  <chapter xml:id="belhaven-math">
+    <title>Belhaven Mathematics</title>
 
      <introduction> </introduction>
      <section xml:id="belhaven-math-intro">
@@ -111,6 +110,7 @@
 
      </section>
 
+
     <section xml:id="sec-successful-student">
       <title>How to Be a Successful Math Student</title>
       <p>
@@ -119,17 +119,191 @@
         good strategies to be successful. Let's take a little time to think about how to be a successful student.
       </p>
 
-      <exercise>
-        Think about your past experiences in mathematics courses. When were you most successful? 
-        What practices helped you be successful?
-      </exercise>
+      <question xml:id="past-experiences">
+        <title>Past Math Experiences</title>
+      <statement>
+        <p>
+          Think about your past experiences in mathematics courses. When were you most successful? 
+          What practices helped you be successful?
+        </p>
+       </statement>
+       </question>
+
+       <p>
+        Now let's start thinking about others. 
+       </p>
+
+       <question xml:id="other-studentss">
+        <title>Qualities of Math Students</title>
+      <statement>
+        <p>
+          Think about someone that you know that is good at mathematics. List five qualities that makes this person good at math.
+        </p>
+       </statement>
+       <solution>
+        <p>
+          <ol>
+          <li> </li>
+          <li>  </li>
+          <li> </li>
+          <li> </li>
+          <li> </li>
+        </ol>
+        </p>
+       </solution>
+       </question>
+
+       <question xml:id="qualities">
+       <title>Developing Qualities of Math</title>
+      <statement>
+        <p>
+          What kind of actions can we take to develop these qualities?
+        </p>
+       </statement>
+       <solution>
+        <p>
+          Answers will vary, but a desire to understand will motivate development of these qualities.
+        </p>
+       </solution>
+       </question>
+    </section>
+
+<!-- ToDo: Classmate Introduction worksheet -->
+
+    <section xml:id="classmate-introductions">
+      <title>Classmate Introductions</title>
+      <p>
+        Community is our first pillar of emphasis. To get started, locate four classmates that you have not met before. 
+        Then find out
+      </p>
+      <p>
+          <ol>
+          <li> where they are from </li>
+          <li> what their major is and what they want to do with it </li>
+          <li> one interesting fact about them</li>
+          
+        </ol>
+        </p>
+    </section>
+
+    <section xml:id="hw-career-fair">
+      <title>HW: Career Fair</title>
+      
+      <p>
+        One of the great traditions of Belhaven University is the Major's Fair. 
+        Every year, the different academic departments market what their programs offer to students.
+      </p>
+
+      <subsection xml:id="subsec-Visiting-Major-Fair">
+        <title>Visiting the Major's Fair</title>
+        <p>
+          Your assignment is to visit this year's Major Fair. Soak in the experience and answer the following exercises. 
+          Use the HW: Major Fair worksheet found on Canvas. 
+        </p>
+
+        <question xml:id="five-departments">
+        <title>Past Math Experiences</title>
+        <statement>
+        <p>
+          List five departments that you visited.
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="interesting-departments">
+        <title>Interesting Departments</title>
+        <statement>
+        <p>
+          Discuss any department you felt were particularly interesting. What interested you about their department?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="what-you-learend-makerfair">
+        <title>What did You Learn?</title>
+        <statement>
+        <p>
+          What is something you learned at the Major Fair?
+        </p>
+        </statement>
+        </question>
+
+      </subsection>
+    </section>
+    
+    
+  </chapter>
+
+  <chapter xml:id="careers">
+      <title>Careers in Mathematics</title>
+        <p>The world of mathematics is far larger than most people ever see.</p>
+
+    <section xml:id="HW-careers">
+      <title>HW: Mathematical Careers</title>
+      
+      <p>
+        What can you do with your degree? 
+        What doors does a background in mathematics open? Even though we are intersted in mathematics like an artist cares for art,
+        you will probably want to get a job at some point. We will now take some time to research careers related to mathematics degrees.
+        Use the HW: Mathematical Careers worksheet found on Canvas. 
+      </p>
+
+      <question xml:id="three-careers">
+        <title>What Careers are there?</title>
+        <statement>
+        <p>
+          Find three careers (one of them resulting directly from a mathematics degree) 
+          that you can follow with your degree. Be sure to include your sources.
+        </p>
+        </statement>
+        <solution>
+          <p>
+            <ol>
+              <li>
+                <p>
+                  Career:                         Source:
+                </p>
+              </li>
+              <li>
+                <p>
+                  Career:                         Source:
+                </p>
+              </li>
+              <li>
+                <p>
+                  Career:                         Source:
+                </p>
+              </li>
+            </ol>
+          </p>
+        </solution>
+       </question>
+
+       <question xml:id="canvas-careers">
+        <title>Canvas Discussion</title>
+        <statement>
+        <p>
+          Locate the Canvas discussion post "Mathematical Careers", 
+          and share a resource highlighting one of the careers you found to be interesting.
+        </p>
+        </statement>
+        </question>
+
+       <question xml:id="career-interest">
+        <title>Career Interest</title>
+        <statement>
+        <p>
+          Do any of the careers you mentioned or found in Canvas seem like a career you would like to pursue? Why or why not?
+        </p>
+        </statement>
+        </question>
+
+       
 
     </section>
 
-    </chapter>
-  </part>
+  </chapter> 
 
-  
 
   <chapter xml:id="journey">
       <title>The Journey to Mathematics</title>
