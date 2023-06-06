@@ -12,8 +12,8 @@
   </docinfo>
 
   <book xml:id="overviewofmath">
-    <title>Overview of Mathematics</title>
-    <subtitle>A short look at what math majors do</subtitle>
+    <title>A Look into Some Mathematics</title>
+    <subtitle>A short look at what math majors do (Belhaven Edition) </subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
@@ -61,7 +61,11 @@
             background experiences,  </li>
           <li> and interesting technology that pairs well with mathematical studies. </li>
         </ol> 
+        And we hope to have some fun while doing it. Best practices for this course are just showing up with a good attitude and
+        having a curiosity about math topics.
       </p> 
+
+      
     </section> 
 
   <part xml:id="part-community">
@@ -74,7 +78,9 @@
      <section xml:id="belhaven-math-intro">
        <title> Introduction to Belhaven Mathematics </title>
        <p>
-        The Mathematics and Computer Science Department (MCS) at Belhaven University rely on three crucial pillars
+        Welcome to the Mathematics and Computer Science Department (MCS) at Belhaven University. We work hard to provide unique
+        learning opportunities, to do a lot of math, and to have fun while grow. Maybe we can best summarize what Belhaven MCS
+        is about with the three crucial pillars of our identity:
         <ul>
           <li>
             community, 
@@ -82,8 +88,9 @@
           <li>academic experiences,  </li>
           <li> techonology. </li>
         </ul>
-        This text covers each of these pillars in Units I, II, and III respectively.
+        We look at each of these pillars in Units I, II, and III respectively.
         Expect to jump around from chapter to chapter as we will want to discuss these departmental pillars throughout the semester.
+        And, in general, we hope you will embrace these pillars as we believe they lead to successful studies and successful careers.
       </p>
 
       <p>We will take time this semester to look at all of these this semester, and we encourage all of our students to take it to heart. 
@@ -95,14 +102,29 @@
         I pursue my career and calling through the pillars of community, academic experiences, and technology.
       </remark>
 
-      <p> Young students often underestimate the power of good communication. Most courses in the MCS utilize Microsoft Teams,
-       a professional, team-building messaging app. The quickest and easiest way to support the Community pillar 
-       of the MCS Mission Statement is to simply download Teams, join our course's team (listed in the syllabus), 
+      <p> Young students often underestimate the power of good communication. The quicker you get comfortable with
+      communicating with peers, professors, and advisors the better. In addition to email, most courses in the MCS
+       utilize Microsoft Teams, a professional, team-building messaging app. The quickest and easiest way to support
+       the Community pillar of the MCS Mission Statement is to simply download Teams, join our course's team (listed in the syllabus), 
        join the BelhavenSTEM team, and turn on notifications in both!
       </p>
 
-
      </section>
+
+    <section xml:id="sec-successful-student">
+      <title>How to Be a Successful Math Student</title>
+      <p>
+        What makes someone a good math student? Being smart? Not always... Being a hard worker? Work ethic defintiely helps! 
+        How do you study? How do you learn? Before going too far towards your degree in mathematics, maybe we should think about
+        good strategies to be successful. Let's take a little time to think about how to be a successful student.
+      </p>
+
+      <exercise>
+        Think about your past experiences in mathematics courses. When were you most successful? 
+        What practices helped you be successful?
+      </exercise>
+
+    </section>
 
     </chapter>
   </part>
