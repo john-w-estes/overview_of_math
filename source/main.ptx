@@ -70,242 +70,43 @@
       
     </section> 
 
-  <chapter xml:id="belhaven-math">
+<!-- CHAPTER 1 BELHAVEN MATHEMATICS.....................................................................  -->
+  <chapter xml:id="belhaven-math" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Belhaven Mathematics</title>
 
      <introduction> </introduction>
-     <section xml:id="belhaven-math-intro">
-       <title> Introduction to Belhaven Mathematics </title>
-       <p>
-        Welcome to the Mathematics and Computer Science Department (MCS) at Belhaven University. We work hard to provide unique
-        learning opportunities, to do a lot of math, and to have fun while grow. Maybe we can best summarize what Belhaven MCS
-        is about with the three crucial pillars of our identity:
-        <ul>
-          <li>
-            community, 
-          </li>
-          <li>academic experiences,  </li>
-          <li> techonology. </li>
-        </ul>
-        We look at each of these pillars in Units I, II, and III respectively.
-        Expect to jump around from chapter to chapter as we will want to discuss these departmental pillars throughout the semester.
-        And, in general, we hope you will embrace these pillars as we believe they lead to successful studies and successful careers.
-      </p>
 
-      <p>We will take time this semester to look at all of these this semester, and we encourage all of our students to take it to heart. 
-      In fact, we want all of our students to memorize the Mathematics and Computer Science Mission Statement.
-      </p>
+         <!--SECTION: BELHAVEN MATH INTRO................................................................ -->
+     <xi:include href="BelhavenMath/belhaven-math-intro.xml" />
 
-      <remark>
-        <title>Belhaven MCS Mission Statement</title>
-        I pursue my career and calling through the pillars of community, academic experiences, and technology.
-      </remark>
-
-      <p> Young students often underestimate the power of good communication. The quicker you get comfortable with
-      communicating with peers, professors, and advisors the better. In addition to email, most courses in the MCS
-       utilize Microsoft Teams, a professional, team-building messaging app. The quickest and easiest way to support
-       the Community pillar of the MCS Mission Statement is to simply download Teams, join our course's team (listed in the syllabus), 
-       join the BelhavenSTEM team, and turn on notifications in both!
-      </p>
-
-     </section>
-
-
-    <section xml:id="sec-successful-student">
-      <title>How to Be a Successful Math Student</title>
-      <p>
-        What makes someone a good math student? Being smart? Not always... Being a hard worker? Work ethic defintiely helps! 
-        How do you study? How do you learn? Before going too far towards your degree in mathematics, maybe we should think about
-        good strategies to be successful. Let's take a little time to think about how to be a successful student.
-      </p>
-
-      <question xml:id="past-experiences">
-        <title>Past Math Experiences</title>
-      <statement>
-        <p>
-          Think about your past experiences in mathematics courses. When were you most successful? 
-          What practices helped you be successful?
-        </p>
-       </statement>
-       </question>
-
-       <p>
-        Now let's start thinking about others. 
-       </p>
-
-       <question xml:id="other-studentss">
-        <title>Qualities of Math Students</title>
-      <statement>
-        <p>
-          Think about someone that you know that is good at mathematics. List five qualities that makes this person good at math.
-        </p>
-       </statement>
-       <solution>
-        <p>
-          <ol>
-          <li> </li>
-          <li>  </li>
-          <li> </li>
-          <li> </li>
-          <li> </li>
-        </ol>
-        </p>
-       </solution>
-       </question>
-
-       <question xml:id="qualities">
-       <title>Developing Qualities of Math</title>
-      <statement>
-        <p>
-          What kind of actions can we take to develop these qualities?
-        </p>
-       </statement>
-       <solution>
-        <p>
-          Answers will vary, but a desire to understand will motivate development of these qualities.
-        </p>
-       </solution>
-       </question>
-    </section>
-
-<!-- ToDo: Classmate Introduction worksheet -->
-
-    <section xml:id="classmate-introductions">
-      <title>Classmate Introductions</title>
-      <p>
-        Community is our first pillar of emphasis. To get started, locate four classmates that you have not met before. 
-        Then find out
-      </p>
-      <p>
-          <ol>
-          <li> where they are from </li>
-          <li> what their major is and what they want to do with it </li>
-          <li> one interesting fact about them</li>
-          
-        </ol>
-        </p>
-    </section>
-
-    <section xml:id="hw-career-fair">
-      <title>HW: Career Fair</title>
-      
-      <p>
-        One of the great traditions of Belhaven University is the Major's Fair. 
-        Every year, the different academic departments market what their programs offer to students.
-      </p>
-
-      <subsection xml:id="subsec-Visiting-Major-Fair">
-        <title>Visiting the Major's Fair</title>
-        <p>
-          Your assignment is to visit this year's Major Fair. Soak in the experience and answer the following exercises. 
-          Use the HW: Major Fair worksheet found on Canvas. 
-        </p>
-
-        <question xml:id="five-departments">
-        <title>Past Math Experiences</title>
-        <statement>
-        <p>
-          List five departments that you visited.
-        </p>
-        </statement>
-        </question>
-
-        <question xml:id="interesting-departments">
-        <title>Interesting Departments</title>
-        <statement>
-        <p>
-          Discuss any department you felt were particularly interesting. What interested you about their department?
-        </p>
-        </statement>
-        </question>
-
-        <question xml:id="what-you-learend-makerfair">
-        <title>What did You Learn?</title>
-        <statement>
-        <p>
-          What is something you learned at the Major Fair?
-        </p>
-        </statement>
-        </question>
-
-      </subsection>
-    </section>
+         <!--SECTION: SUCEESSFUL STUDENT............................................................... -->
+     <xi:include href="BelhavenMath/sec-successful-student.xml"  />
     
+         <!--SECTION: CLASSMATE INTRODUCTIONS.............................................................. -->
+     <xi:include href="BelhavenMath/classmate-introductions.xml"  />
+
+         <!--SECTION: HW: The Major's Fair.............................................................. -->
+     <xi:include href="BelhavenMath/hw-career-fair.xml"  />    
     
   </chapter>
 
-  <chapter xml:id="careers">
+<!--CHAPTER: CAREERS IN MATHEMAITCS                   .................................................. -->
+
+  <chapter xml:id="careers" xmlns:xi="http://www.w3.org/2001/XInclude">
       <title>Careers in Mathematics</title>
         <p>The world of mathematics is far larger than most people ever see.</p>
 
-    <section xml:id="HW-careers">
-      <title>HW: Mathematical Careers</title>
-      
-      <p>
-        What can you do with your degree? 
-        What doors does a background in mathematics open? Even though we are intersted in mathematics like an artist cares for art,
-        you will probably want to get a job at some point. We will now take some time to research careers related to mathematics degrees.
-        Use the HW: Mathematical Careers worksheet found on Canvas. 
-      </p>
+         <!--SECTION: HW: CAREERS IN MATH.............................................................. -->
+     <xi:include href="Careers/HW-careers.xml"  />
 
-      <question xml:id="three-careers">
-        <title>What Careers are there?</title>
-        <statement>
-        <p>
-          Find three careers (one of them resulting directly from a mathematics degree) 
-          that you can follow with your degree. Be sure to include your sources.
-        </p>
-        </statement>
-        <solution>
-          <p>
-            <ol>
-              <li>
-                <p>
-                  Career:                         Source:
-                </p>
-              </li>
-              <li>
-                <p>
-                  Career:                         Source:
-                </p>
-              </li>
-              <li>
-                <p>
-                  Career:                         Source:
-                </p>
-              </li>
-            </ol>
-          </p>
-        </solution>
-       </question>
-
-       <question xml:id="canvas-careers">
-        <title>Canvas Discussion</title>
-        <statement>
-        <p>
-          Locate the Canvas discussion post "Mathematical Careers", 
-          and share a resource highlighting one of the careers you found to be interesting.
-        </p>
-        </statement>
-        </question>
-
-       <question xml:id="career-interest">
-        <title>Career Interest</title>
-        <statement>
-        <p>
-          Do any of the careers you mentioned or found in Canvas seem like a career you would like to pursue? Why or why not?
-        </p>
-        </statement>
-        </question>
-
-       
-
-    </section>
+         <!--SECTION: SHARING CAREERS .............................................................. -->
+     <xi:include href="Careers/sharing-careers.xml"  />
 
   </chapter> 
 
+<!--CHAPTER: JOURNEY TO MATH .................................................. -->
 
-  <chapter xml:id="journey">
+  <chapter xml:id="journey" >
       <title>The Journey to Mathematics</title>
         <p>The world of mathematics is far larger than most people ever see.</p>
 

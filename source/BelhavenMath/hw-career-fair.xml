@@ -1,0 +1,44 @@
+    <section xml:id="hw-career-fair">
+      <title>HW: Career Fair</title>
+      
+      <p>
+        One of the great traditions of Belhaven University is the Major's Fair. 
+        Every year, the different academic departments market what their programs offer to students.
+      </p>
+
+      <subsection xml:id="subsec-Visiting-Major-Fair">
+        <title>Visiting the Major's Fair</title>
+        <p>
+          Your assignment is to visit this year's Major Fair. Soak in the experience and answer the following exercises. 
+          Use the HW: Major Fair worksheet found on Canvas. 
+        </p>
+
+        <question xml:id="five-departments">
+        <title>Past Math Experiences</title>
+        <statement>
+        <p>
+          List five departments that you visited.
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="interesting-departments">
+        <title>Interesting Departments</title>
+        <statement>
+        <p>
+          Discuss any department you felt were particularly interesting. What interested you about their department?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="what-you-learend-makerfair">
+        <title>What did You Learn?</title>
+        <statement>
+        <p>
+          What is something you learned at the Major Fair?
+        </p>
+        </statement>
+        </question>
+
+      </subsection>
+    </section>
