@@ -87,6 +87,10 @@
 
          <!--SECTION: HW: The Major's Fair.............................................................. -->
      <xi:include href="BelhavenMath/hw-career-fair.xml"  />    
+
+<!-- TODO: UPDATE COMMUNITY BITS -->
+        <!--SECTION: BELHAVEN COMMUNITY.............................................................. -->
+     <xi:include href="BelhavenMath/belhaven-community.xml"  />    
     
   </chapter>
 

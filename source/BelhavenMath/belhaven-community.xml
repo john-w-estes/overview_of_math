@@ -1,49 +1,55 @@
-    <section xml:id="HW-careers1">
-      <title>HW: Mathematical Careers</title>
+    <section xml:id="belhaven-community">
+      <title>More on the Belhaven MCS Community</title>
       
       <p>
-        What can you do with your degree? 
-        What doors does a background in mathematics open? Even though we are intersted in mathematics like an artist cares for art,
-        you will probably want to get a job at some point. We will now take some time to research careers related to mathematics degrees.
-        Use the HW: Mathematical Careers worksheet found on Canvas. 
+        We mentioned already the key pillars of the Belhaven MCS Department. Now we want to dig into those
+        with a bit more attetion. As part of the Belhaven Division of Natural Science (Belhaven STEM), the MCS Department
+        provides a number of opportunities we feel develop critical thinking, professionalism, and vision for the future. However,
+        we also want you to feel supported and encouraged. 
       </p>
 
-      <question xml:id="three-careers1">
-        <title>What Careers are there?</title>
-        <statement>
-        <p>
-          Find three careers (one of them resulting directly from a mathematics degree) 
-          that you can follow with your degree. Be sure to include your sources.
-        </p>
-        </statement> 
-        <solution>
-          <p>
-          <ol>
-          <li> 1. </li>
-          <li> 2. </li>
-          <li> 3. </li>
-          
-        </ol></p>        
-        </solution>
-       </question>
+      <p>Remember the Belhaven MCS mission statement? <term>I pursue my career and calling through community, 
+      academic experiences, and technology</term>. We will look at each of these pillars. Let's start with community.</p>
 
-       <question xml:id="canvas-careers1">
-        <title>Canvas Discussion</title>
-        <statement>
-        <p>
-          Locate the Canvas discussion post "Mathematical Careers", 
-          and share a resource highlighting one of the careers you found to be interesting.
-        </p>
-        </statement>
-        </question>
+      <subsection xml:id="subsec-community">
+      <title>Community</title>
+      <p>
+      "It's not what you know, but who you know." We don't exactly prescribe this adage as a hard and fast rule, BUT... it 
+      knowing the right people can be very powerful. Young students do not always understand how valuable community can be, but
+      we picked community as our first pillar for a reason.
+      </p>
 
-       <question xml:id="career-interest1">
-        <title>Career Interest</title>
-        <statement>
-        <p>
-          Do any of the careers you mentioned or found in Canvas seem like a career you would like to pursue? Why or why not?
-        </p>
-        </statement>
-        </question>
+      <p>We want you to be a part of something special! While we provide opportunities for you, it's up to you to
+      take advantage of them. What can you do to quickly join our community? Great question!
+      </p>
+      <p>(Join the BelhavenSTEM Team :). )</p>
+      </subsection>
+
+      <!-- MCS Club, social events, maker campus -->
+      <subsection xml:id="subsec-mcsclub">
+      <title>MCS Club</title>
+      <p>
+      The student-led MCS Club. 
+      </p>
+
+      </subsection>
+
+      <subsection xml:id="subsec-social">
+      <title>Division Social Events</title>
+      <p> 
+      The MCS Department and the Division of Natural Science host a variety of events for students.  
+      <ul>
+        <li> </li>
+      </ul>
+      </p>
+
+      </subsection>
+
+      <subsection xml:id="subsec-makercampus">
+      <title>Belhaven Maker Campus</title>
+      <p> 
+      </p>
+
+      </subsection>
 
     </section>
