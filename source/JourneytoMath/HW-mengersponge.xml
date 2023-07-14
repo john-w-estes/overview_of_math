@@ -1,0 +1,100 @@
+<section xml:id="HW-mengersponge">
+      <title>HW: Menger Sponge and the Mandlebrot Set</title>
+      
+      <p>
+      Let's get back to fractals. There are several famous fractals of interest. We already saw Sierpinski's Triangle. 
+       Another one of these is the Menger Sponge.
+      </p>
+
+      <figure>
+        <image source="images/menger" width="50%"/>
+      </figure>
+
+      <subsection xml:id="my-favorite-spaces">
+        <title>A Few of My Favorite Spaces</title>
+
+        <p>
+        Mathematician Evelyn Lamb has written as an incredible series entitled "A Few of My Favorite Space" 
+        for Scientific American covering different mathematical spaces.
+        </p>
+
+        <question xml:id="q-menger-sponge1">
+        <title>The Menger Sponge</title>
+        <statement>
+        <p>
+          Read Evelyn Lamb's article <url href="https://blogs.scientificamerican.com/roots-of-unity/a-few-of-my-favorite-spaces-the-menger-sponge/" visual="A Few of My Favorite Spaces: The Menger Sponge">"A Few of My Favorite Spaces: The Menger Sponge".</url> 
+          <xref ref="biblio-menger"/>
+        </p>
+        </statement>
+       </question>
+    
+        <p>
+        What did you think about Lamb's article? Answer the following questions after reading it.
+        </p>
+
+        <question xml:id="q-menger-q2">
+        <statement>
+        <p>
+         How do you develop the Menger Sponge?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-menger-q3">
+        <statement>
+        <p>
+         What is the dimension of the Menger Sponge?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-menger-q4">
+        <statement>
+        <p>
+         What are your thoughts about the Menger Sponge?
+        </p>
+        </statement>
+        </question>
+        
+      </subsection>     
+
+      <subsection xml:id ="mandelbrot">
+        <title>The Mandelbrot Set and Numberphile</title>
+
+        <p>
+        Another famous fractal is the Mandelbrot Set shown in Figure
+        </p>
+
+        <p>
+        Numberphile is a popular math-related YouTube channel that covers a huge
+         variety interesting high-level mathematics topics. Numberphile is a channel you should bookmark
+         as a young math student. We will look to Numberphile several times in this text, but we're pretty sure you'll
+         stay up late binging their videos.
+        
+            <figure>
+                <caption>The Mandlebrot Set- Numberphile</caption>
+                <video xml:id="sphere-inversion" youtube="NGMRB4O922I" />
+            </figure> 
+        </p>
+
+      <question xml:id="q-mandlebrot-q1">
+        <statement>
+        <p>
+         Explain the process that determines whether or not a number will be in the Mandelbrot Set or not.
+        </p>
+        </statement>
+        </question>
+      
+      </subsection>     
+       
+       
+
+       <p>
+         MIT's Origami Club, OragMIT, built Menger Sponges from business cards! We should do this.
+      <figure>
+        <caption>Building the Menger Sponge</caption>
+        <video xml:id="menger-video" youtube="YpmP8OJJ7W4" />
+      </figure> 
+      </p>
+
+    </section>

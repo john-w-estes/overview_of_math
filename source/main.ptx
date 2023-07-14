@@ -8,13 +8,14 @@
     </macros>
     <latex-image-preamble>
       \usepackage{tikz}
+      
     </latex-image-preamble>
   </docinfo>
 
 <!-- ToDo: homework and in-class worksheets -->
 
   <book xml:id="overviewofmath">
-    <title>A Look into Some Mathematics</title>
+    <title>Onboarding to Math</title>
     <subtitle>A short look at what math majors do (Belhaven Edition) </subtitle>
 
     <frontmatter xml:id="frontmatter">
@@ -92,13 +93,28 @@
         <!--SECTION: BELHAVEN COMMUNITY.............................................................. -->
      <xi:include href="BelhavenMath/belhaven-community.xml"  />    
     
+    <!--SECTION: BELHAVEN ACADEMIC EXPERIENCES.............................................................-->
+     <xi:include href="BelhavenMath/belhaven-academics.xml" />
+
+    <!--SECTION: FURTHER RECOMMENDATIONS.............................................................. -->
+     <xi:include href="BelhavenMath/further-recs.xml"  />    
+    
   </chapter>
 
 <!--CHAPTER: CAREERS IN MATHEMAITCS                   .................................................. -->
 
   <chapter xml:id="careers" xmlns:xi="http://www.w3.org/2001/XInclude">
       <title>Careers in Mathematics</title>
-        <p>The world of mathematics is far larger than most people ever see.</p>
+        <p>What kind of job can I get after college? We hear the question repeatedly from students and parents.
+        It's a valid question, and one worth some time to think about. Truthfully, the value of an understanding
+        of mathematics is becoming increasingly recognized.</p>
+
+        <p>
+          It's not just about calculation. Mathematics teaches us how to think critically, to problem solve, and
+          to not get caught trying to solve every problem with the same approach. There is an underestimated amount
+          of creativity involved in doing mathematics well, and these skills make math students quick learners and
+          valuable employees.
+        </p>
 
          <!--SECTION: HW: CAREERS IN MATH.............................................................. -->
      <xi:include href="Careers/HW-careers.xml"  />
@@ -108,18 +124,84 @@
 
   </chapter> 
 
+  <chapter xml:id="ch-math-community">
+    <title>The Math Commuity</title>
+
+    <!--SECTION: HW: TAO AND THE FIELDS MEDAL .............................................................. -->
+     <xi:include href="MathCommunity/HW-Fields.xml"  />
+    
+  </chapter>
+
 <!--CHAPTER: JOURNEY TO MATH .................................................. -->
 
   <chapter xml:id="journey" >
       <title>The Journey to Mathematics</title>
         <p>The world of mathematics is far larger than most people ever see.</p>
 
+
+    <!--SECTION: Defing Dimensions .............................................................. -->
+     <xi:include href="JourneytoMath/defining-dimension.xml"  />
+
+    <!--SECTION: HW: Mind-Boggling Facts .............................................................. -->
+     <xi:include href="JourneytoMath/HW-mindboggling.xml"  />
+
+    <!--SECTION: HW: Menger and Mandlebrot Set .............................................................. -->
+     <xi:include href="JourneytoMath/HW-mengersponge.xml"  />
+
   </chapter>       
 
 
+<!--BACKMATTER: REFERENCES -->
           
     <backmatter xml:id="backmatter">
       <title>Backmatter</title>
+
+      <references xml:id="references-backmatter">
+      <title>References</title>
+
+        <biblio type="raw" xml:id="biblio-live-science">
+          Natalie Wolchover,
+        <title>5 Seriously Mind-Boggling Math Facts</title>,
+          August 2011,
+        <note xml:id="note-judson-AATA">
+        <p>
+            Another online, open-source offering.
+        </p>
+        </note>
+        </biblio>
+
+        <biblio type="raw" xml:id="biblio-eyes">
+          James Bradley and Russell Howell,
+        <title>Mathematics Through the Eyes of Faith</title>,
+          January 2013,
+        HarperOne, Illustrated
+        <volume>14 </volume>
+        <number>6</number>
+        </biblio>
+
+        
+        <biblio type="raw" xml:id="biblio-lay-article">
+          David C. Lay,
+        <title>Subspaces and Echelon Forms</title>.
+        <journal>The College Mathematics Journal</journal>,
+          January 1993,
+        <volume>24</volume>
+        <number>1</number>,
+          57<ndash />62.
+        </biblio>
+      </references>
+
+      <biblio type="raw" xml:id="biblio-tao">
+          Stuart Wolpert,
+        <title>Terrance Tao, 'Mozart of Math', first ULCA prof to win Fields Medal</title>,
+          UCLA Newsroom,
+          August 2006.          
+        <note xml:id="note-taourl">
+        <p>
+            https://newsroom.ucla.edu/releases/Terence-Tao-Mozart-of-Math-7252
+        </p>
+        </note>
+        </biblio>
 
       <colophon>
         <p> This book was authored in <pretext />. </p>

@@ -1,0 +1,67 @@
+<section xml:id="HW-mindboggling">
+      <title>HW: Mind-Boggling Math Facts</title>
+      
+      <p>
+       From the dawn of human history, people have turned to mathematics for answers to a variety
+        complicated problems. Mathematics has been to found to provide the logic and sound consistency 
+        needed to approach the world empirically. Studying mathematics have brought significant 
+        advances in everything from Chemistry to Psychology to Economics to Engineering.
+      </p>
+
+      <p>
+      But sometimes math has pointed us in surprising directions. Sometimes, we find things that hard to believe. 
+      Live Science's article "5 Mind-Boggling Math Facts" (livescience.com) gives us a few examples of the weirdness of math. 
+      </p>     
+
+      <question xml:id="q-live-science">
+        <title>Live Sceince's "5 Mind-Boggling Math Facts</title>
+        <statement>
+        <p>
+          Read the article from Live Science entitled <url href="https://www.livescience.com/26584-5-mind-boggling-math-facts.html" visual="5 Mind-Bogglind Math Facts">"5 Mind-Boggling Math Facts".</url> 
+          <xref ref="biblio-livescience"/>
+        </p>
+        </statement>
+       </question>
+      
+      <p>
+      One of the weird facts you should have read there is the sphere inversion. You can visualize that here.
+      <figure>
+        <caption>Sphere Inversion with Transparency</caption>
+        <video xml:id="sphere-inversion" youtube="iynrV-3I9CY" />
+      </figure> 
+      </p>
+
+       
+       
+       <question xml:id="q-mindboggling-q1">
+        <statement>
+        <p>
+         Have you heard of any of these facts before? Do any of these facts seem hard to believe at first glance?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-mindboggling-q2">
+        <statement>
+        <p>
+         Which fact did you find to be the most "mind-boggling"? Explain your reasoning.
+        </p>
+        </statement>
+        </question>
+
+        <subsection xml:id="more-interesting-facts">
+          <title>More Interesting Facts</title>
+        </subsection>
+
+        <question xml:id="q-mindboggling-q3">
+        <statement>
+        <p>
+         Locate the Canvas discussion post "More Interesting Facts" and share a resource pointing to another "mind-boggling" math
+         fact not found from Live Science.
+        </p>
+        </statement>
+        </question>
+
+       
+
+    </section>

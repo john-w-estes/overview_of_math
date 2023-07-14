@@ -1,0 +1,168 @@
+<section xml:id="HW-pascal">
+      <title>HW: Pascal's Triangle</title>
+      
+      <p>
+      Pascal's Triangle is an easy construction that has a variety of interesting patterns and applications. 
+      Pascal's Triangle is named after mathematician Blaise Pascal, considered the father of Probability Theory.
+      Pascal used Pascal's Triangle to calculate binomial probability, but the triangle was known and in use other 
+      parts of the world centuries before Pascal.
+      </p>
+
+      <figure>
+        <image source="images/pascal_triangle.png" width="50%"/>
+      </figure>
+
+      <subsection xml:id="mathigon-pascals">
+        <title>Mathigon and Pascal's Triangle</title>
+
+        <p>
+        Mathigon is a fantastic and quickly-growing resource for mathematics. There goal is offer 
+        free tools, courses and manipulatives to make online learning more interactive and engaging than before. 
+        We will take now look at a section of one of Mathigon's courses "Sequences and Patterns".
+        </p>
+
+        <p>
+        From <url href="https://mathigon.org/course/sequences/pascals-triangle" visual="Mathigon">"Mathigon".</url>, we
+        can work through a colorful, interactive course. Work through Mathigon's Pascal's Triangle and answer the 
+        following questions.
+        </p>
+
+        <question xml:id="q-pascal-q1">
+        <statement>
+        <p>
+         Write out the first 8 rows of Pascal’s Triangle.
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-pascal-q2">
+        <statement>
+        <p>
+         What patterns show up in the first four diagonals?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-pascal-q3">
+        <statement>
+        <p>
+         What numbers show up by adding entries of a given row of Pascal’s Triangle?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-pascal-q4">
+        <statement>
+        <p>
+         Describe how the Fibonacci sequence is encoded into Pascal’s Triangle.
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-pascal-q5">
+        <statement>
+        <p>
+         What does mathematician David Singmaster conjecture?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-pascal-q6">
+        <statement>
+        <p>
+         What fractal is connected to Pascal's triangle?
+        </p>
+        </statement>
+        </question>
+
+
+      </subsection>
+
+      <subsection xml:id="pascals-counting">
+        <title>Pascal's Triangle and Counting</title>
+
+        <p>
+        Mathematician Evelyn Lamb has written as an incredible series entitled "A Few of My Favorite Space" 
+        for Scientific American covering different mathematical spaces.
+        </p>
+
+        <question xml:id="q-menger-sponge1">
+        <title>The Menger Sponge</title>
+        <statement>
+        <p>
+          Read Evelyn Lamb's article <url href="https://blogs.scientificamerican.com/roots-of-unity/a-few-of-my-favorite-spaces-the-menger-sponge/" visual="A Few of My Favorite Spaces: The Menger Sponge">"A Few of My Favorite Spaces: The Menger Sponge".</url> 
+          <xref ref="biblio-menger"/>
+        </p>
+        </statement>
+       </question>
+    
+        <p>
+        What did you think about Lamb's article? Answer the following questions after reading it.
+        </p>
+
+        <question xml:id="q-menger-q2">
+        <statement>
+        <p>
+         How do you develop the Menger Sponge?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-menger-q3">
+        <statement>
+        <p>
+         What is the dimension of the Menger Sponge?
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-menger-q4">
+        <statement>
+        <p>
+         What are your thoughts about the Menger Sponge?
+        </p>
+        </statement>
+        </question>
+        
+      </subsection>     
+
+      <subsection xml:id ="mandelbrot">
+        <title>The Mandelbrot Set and Numberphile</title>
+
+        <p>
+        Another famous fractal is the Mandelbrot Set shown in Figure
+        </p>
+
+        <p>
+        Numberphile is a popular math-related YouTube channel that covers a huge
+         variety interesting high-level mathematics topics. Numberphile is a channel you should bookmark
+         as a young math student. We will look to Numberphile several times in this text, but we're pretty sure you'll
+         stay up late binging their videos.
+        
+            <figure>
+                <caption>The Mandlebrot Set- Numberphile</caption>
+                <video xml:id="sphere-inversion" youtube="NGMRB4O922I" />
+            </figure> 
+        </p>
+
+      <question xml:id="q-mandlebrot-q1">
+        <statement>
+        <p>
+         Explain the process that determines whether or not a number will be in the Mandelbrot Set or not.
+        </p>
+        </statement>
+        </question>
+      
+      </subsection>     
+       
+       
+
+       <p>
+         MIT's Origami Club, OragMIT, built Menger Sponges from business cards! We should do this.
+      <figure>
+        <caption>Building the Menger Sponge</caption>
+        <video xml:id="menger-video" youtube="YpmP8OJJ7W4" />
+      </figure> 
+      </p>
+
+    </section>

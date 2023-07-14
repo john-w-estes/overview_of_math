@@ -1,0 +1,48 @@
+    <section xml:id="defining-dimension">
+      <title>Defining Dimension</title>
+
+      <p>
+        We have already looked at fractals and found some interesting things about them. 
+        One of the more interesting fact is that fractals have non-integer dimensions! That seems very unintuitive. 
+      </p>
+
+      <p>
+      Fractals unusual nature makes us wonder what "dimension" exactly is.
+      </p>
+
+      <subsection xml:id="linear-algebra">
+      
+      <p>
+      Linear algebra is also very concerned with the notion of dimension. In linear algebra, we visit unfamiliar worlds of math.
+      We concern ourselves with all sorts of questions in these alien environmen with questions like "What is zero here?".  
+      We often wonder how big these worlds are. These "worlds" are technically called "vector spaces", and the size of these worlds 
+      is how we define dimension.
+      </p>
+      
+      <p>
+      We typically express the characters in these worlds as matrices. In particular, a <m> m \times n</m> matrix is 
+      considered to be a $mn$-dimensional object m (where $m$ is the number of rows and $n$ is the number of columns).
+      </p>
+      
+      <question xml:id="matrix-dimensions">
+        <title>Dimensions of Matrices</title>
+        <statement>
+        <p>
+          Identify the dimension of the following matrices.
+        
+          <md> \left[\begin{array}{cc}
+                -1 \amp 2 \\
+                1 \amp 3
+                \end{array}\right] 
+          </md>
+        </p>
+        </statement>
+        </question>
+
+      
+      </subsection>
+
+
+    
+
+    </section>

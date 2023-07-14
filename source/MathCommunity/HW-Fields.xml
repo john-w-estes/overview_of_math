@@ -1,0 +1,57 @@
+<section xml:id="HW-fields">
+      <title>HW: Terrance Tao and the Fields Medal</title>
+      
+      <p>
+       There is no Nobel Prize in mathematics unfortunately. However, there is the much 
+       more prestigious Fields Medal given to outstanding mathematicians no older than 
+       40 once every four years, awarded by the International Mathematics Union (IMU) cite{IMU}
+      </p>
+
+      <question xml:id="q-fields">
+        <title>Who has won the Fields Medal?</title>
+        <statement>
+        <p>
+          Research a person who won the Fields Medal (other than Terence Tao). Who are they? 
+          Where are they from? And for what reason did the earn the Fields Medal?
+        </p>
+        </statement>
+       </question>
+
+       <subsection xml:id='subseq-tao'>
+        <title>Terrance Tao</title>
+
+        <p> Terence Tao, professor of mathematics at UCLA, is one of the Fields Medal recipients, and he may be the 
+        greatest mathematician of his generation. Among Tao's incredible accomplishments is that he learned university-level
+        Calculus by the age of 9! </p>
+       </subsection>
+
+       <question xml:id="q-tao-article">
+        <title>Mozart of Math</title>
+        <statement>
+        <p>
+         Read the UCLA article, <url href="https://newsroom.ucla.edu/releases/Terence-Tao-Mozart-of-Math-7252" visual="Terrance Tao">Terrance Tao, 'Mozart of Math', is the first UCLA prof to win Fields Medal.</url>
+        <xref ref="biblio-tao"/>
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-tao-q1">
+        <statement>
+        <p>
+         Tao seems to be in a tier of his own in the mathematics world.
+          List three aspects of Tao that seem to mesmerize mathematicians of the world.
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-tao-q2">
+        <statement>
+        <p>
+         Visit Tao’s Wikipedia page, and list one of his notable awards other than the Fields Medal.
+        </p>
+        </statement>
+        </question>
+
+       
+
+    </section>

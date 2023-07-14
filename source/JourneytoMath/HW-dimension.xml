@@ -1,0 +1,80 @@
+<section xml:id="HW-dimension">
+      <title>HW: Dimension and Definition</title>
+      
+      <p>
+       We have now seen the dimension of fractals and of vector spaces. 
+       Mathematician and author, David Richeson, explored the concept of dimension 
+       further in amazing Quanta Magazine article: "The Journey to Define Dimension" \cite{richeson}.
+      </p>  
+
+      <question xml:id="q-richeson">
+        <title>Quanta Magazine's The Journey to Defining Dimension</title>
+        <statement>
+        <p>
+            Read David Richeson’s article <url href="https://www.quantamagazine.org/a-mathematicians-guided-tour-through-high-dimensions-20210913/" visual="The Journey to Defining Dimension">"The Journey to Defining Dimension".</url> 
+          <xref ref="biblio-richeson"/>
+        </p>
+        </statement>
+       </question>
+       
+       
+       <question xml:id="q-richeson-q1">
+        <statement>
+        <p>
+         Describe what we would observe if a 4-dimensional sphere collided with our 3-dimensional space.
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-richeson-q2">
+        <statement>
+        <p>
+        List four people mentioned in this article and their contribution to the discussion of dimension.
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-richeson-q3">
+        <statement>
+        <p>
+        Georg Cantor talked about the cardinality of infinity. What does he mean by "cardinality”?
+         Explain what Cantor was referring to when he said, "I see it, but I do not believe it.”
+        </p>
+        </statement>
+        </question>
+
+        <question xml:id="q-richeson-q4">
+        <statement>
+        <p>
+        How did Hausdorff define dimension? What mathematical concept came from his definition?
+        </p>
+        </statement>
+        </question>
+
+        <subsection xml:id="quanta-magazine">
+          <title>Quanta Magazine</title>
+        </subsection>
+
+        <p>
+        Quanta Magazine is an editorially independent online publication launched by the Simons Foundation in 2012 
+        to enhance public understanding of science. In their own words, 'Why Quanta? Albert Einstein called photons
+         “quanta of light.” Our goal is to “illuminate science.”'
+        </p>
+
+        <p>
+        Quanta Magazine offers a lot of interesting high-level content in the 
+        sciences and mathematics completely for free. They have won multiple journalism awards
+        including the 2022 Pulitzer Prize for Explanatory Reporting.</p>
+
+        <question xml:id="q-quanta-q1">
+        <statement>
+        <p>
+         Find an article from Quanta Magazine that is interesting to you, 
+         and post a link to it in the Canvas discussino post "Quanta Magazine".
+        </p>
+        </statement>
+        </question>
+
+       
+
+    </section>
