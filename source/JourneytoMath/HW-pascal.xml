@@ -82,87 +82,44 @@
         <title>Pascal's Triangle and Counting</title>
 
         <p>
-        Mathematician Evelyn Lamb has written as an incredible series entitled "A Few of My Favorite Space" 
-        for Scientific American covering different mathematical spaces.
-        </p>
+        Blaise Pascal's interest in Pascal's Triangle was actually related to counting. MathisFun.com shares a lot of 
+        interesting mathematical concepts including Pascal`s Triangle. Answer the following questions using MathisFun.com's
+        <url href="https://www.mathsisfun.com/pascals-triangle.html" visual="Pascal's Triangle">"Pascal's Triangle".</url> article. <xref ref="biblio-mathisfun"/>
+                
+        </p>   
 
-        <question xml:id="q-menger-sponge1">
-        <title>The Menger Sponge</title>
+        <question xml:id="q-pascal2-q1">
         <statement>
         <p>
-          Read Evelyn Lamb's article <url href="https://blogs.scientificamerican.com/roots-of-unity/a-few-of-my-favorite-spaces-the-menger-sponge/" visual="A Few of My Favorite Spaces: The Menger Sponge">"A Few of My Favorite Spaces: The Menger Sponge".</url> 
-          <xref ref="biblio-menger"/>
-        </p>
-        </statement>
-       </question>
-    
-        <p>
-        What did you think about Lamb's article? Answer the following questions after reading it.
-        </p>
-
-        <question xml:id="q-menger-q2">
-        <statement>
-        <p>
-         How do you develop the Menger Sponge?
+          Use Pascal’s Triangle to find <m>11^8</m>.
         </p>
         </statement>
         </question>
 
-        <question xml:id="q-menger-q3">
+        <question xml:id="q-pascal2-q2">
         <statement>
         <p>
-         What is the dimension of the Menger Sponge?
+          If you flip a coin 5 times, in how many different ways can you flip 3 heads? Use Pascal’s Triangle to solve.
         </p>
         </statement>
         </question>
 
-        <question xml:id="q-menger-q4">
+        <question xml:id="q-pascal2-q3">
         <statement>
         <p>
-         What are your thoughts about the Menger Sponge?
+         Pascal’s Triangle can help count combinations. Use Pascal’s Triangle to deduce the number of 
+         ways we can select 5 objects out of 8.
         </p>
         </statement>
         </question>
-        
+
+        <question xml:id="q-pascal2-q4">
+         <statement>
+         <p>
+          Use Pascal’s Triangle to expand <m>(x+y)^7</m>.
+         </p>
+         </statement>
+        </question>        
       </subsection>     
-
-      <subsection xml:id ="mandelbrot">
-        <title>The Mandelbrot Set and Numberphile</title>
-
-        <p>
-        Another famous fractal is the Mandelbrot Set shown in Figure
-        </p>
-
-        <p>
-        Numberphile is a popular math-related YouTube channel that covers a huge
-         variety interesting high-level mathematics topics. Numberphile is a channel you should bookmark
-         as a young math student. We will look to Numberphile several times in this text, but we're pretty sure you'll
-         stay up late binging their videos.
-        
-            <figure>
-                <caption>The Mandlebrot Set- Numberphile</caption>
-                <video xml:id="sphere-inversion" youtube="NGMRB4O922I" />
-            </figure> 
-        </p>
-
-      <question xml:id="q-mandlebrot-q1">
-        <statement>
-        <p>
-         Explain the process that determines whether or not a number will be in the Mandelbrot Set or not.
-        </p>
-        </statement>
-        </question>
-      
-      </subsection>     
-       
-       
-
-       <p>
-         MIT's Origami Club, OragMIT, built Menger Sponges from business cards! We should do this.
-      <figure>
-        <caption>Building the Menger Sponge</caption>
-        <video xml:id="menger-video" youtube="YpmP8OJJ7W4" />
-      </figure> 
-      </p>
 
     </section>

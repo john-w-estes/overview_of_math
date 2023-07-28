@@ -136,8 +136,6 @@
 
   <chapter xml:id="journey" >
       <title>The Journey to Mathematics</title>
-        <p>The world of mathematics is far larger than most people ever see.</p>
-
 
     <!--SECTION: Defing Dimensions .............................................................. -->
      <xi:include href="JourneytoMath/defining-dimension.xml"  />
@@ -148,7 +146,23 @@
     <!--SECTION: HW: Menger and Mandlebrot Set .............................................................. -->
      <xi:include href="JourneytoMath/HW-mengersponge.xml"  />
 
-  </chapter>       
+    <!--SECTION: HW: Pascal's Triangle .............................................................. -->
+    <xi:include href="JourneytoMath/HW-pascal.xml"  />     
+
+  </chapter>  
+  
+<!--CHAPTER: THE WORLD OF CALCULUS .................................................. -->
+
+<chapter xml:id="calculus" >
+  <title>The World of Calculus</title>
+
+<!--SECTION: Applications of Calculus .............................................................. -->
+ <xi:include href="WorldofCalculus/applications-of-calculus.xml"  />
+
+ <!--SECTION: Archimedes Great Idea .............................................................. -->
+ <xi:include href="WorldofCalculus/archimedes.xml"  />
+
+</chapter>   
 
 
 <!--BACKMATTER: REFERENCES -->
